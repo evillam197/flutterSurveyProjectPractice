@@ -55,10 +55,12 @@ class _HomeScreenState extends State<HomeScreen> {
                 !opinionComplete
                     ? "¡Tu opinión nos importa!"
                     : "¡Lo hemos recibido!",
-                style: TextStyle(fontWeight: FontWeight.bold, fontSize: 32),
+                style:
+                    const TextStyle(fontWeight: FontWeight.bold, fontSize: 32),
               ),
               Padding(
-                padding: EdgeInsets.fromLTRB(60.0, 8.0, 60.0, 8.0),
+                padding:
+                    const EdgeInsets.symmetric(horizontal: 60.0, vertical: 8.0),
                 child: Text(
                   !opinionComplete
                       ? "Deja tus comentarios u opiniones para que una Mejor Niñez pueda trabajar en ello"

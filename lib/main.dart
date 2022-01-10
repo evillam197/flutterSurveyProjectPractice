@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:survey_project/screens/home.dart';
-import 'package:survey_project/screens/opinion.dart';
 
 void main() {
   runApp(MyApp());
