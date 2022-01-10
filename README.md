@@ -1,5 +1,9 @@
 # survey_project
 
+## App release
+Installer for android: [APK file](https://github.com/evillam197/flutterSurveyProjectPractice/blob/edc9d8d505ed7c5cd23557a5f568a304151c0062/app-release.apk)
+
+
 A new Flutter project.
 
 ## Getting Started
